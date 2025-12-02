@@ -1,1 +1,1 @@
-Desde la rama1 generando comflicto
+Desde git
